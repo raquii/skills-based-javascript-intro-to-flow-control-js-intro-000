@@ -34,6 +34,7 @@ function switchAge(age) {
   switch (age) {
     case "13"
     case "14"
+    case "15"
   }
 
 }
